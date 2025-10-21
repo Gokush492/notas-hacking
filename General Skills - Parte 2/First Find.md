@@ -6,7 +6,6 @@ Unzip this archive and find the file named 'uber-secret.txt'
 ## Solución
 `picoCTF{f1nd_15_f457_ab443fd1}
 
-
 ## Notas Adicionales
 De igual forma al reto Big Zip se utilizo el comando "grep -r" para realizar un filtro entre los archivos y encontrar el texto que contuviera el "picoCTF".
 

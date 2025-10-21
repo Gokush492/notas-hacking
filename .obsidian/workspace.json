@@ -4,165 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a819a8afffcfd212",
+        "id": "a201ceaf04e6425f",
         "type": "tabs",
         "children": [
           {
-            "id": "a0b16e860d3dc0a1",
+            "id": "5c57eed2eb9e32f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "258f37e29e9c0853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big Zip.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Big Zip"
-            }
-          },
-          {
-            "id": "f730b8de4783349b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          },
-          {
-            "id": "222b09152b0334a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magikarp Ground Mission.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magikarp Ground Mission"
-            }
-          },
-          {
-            "id": "e76504834890be5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Based.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Based"
-            }
-          },
-          {
-            "id": "a683131770e26618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "repetitions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "repetitions"
-            }
-          },
-          {
-            "id": "f03d6628e2575104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Static ain't always noise.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Static ain't always noise"
-            }
-          },
-          {
-            "id": "501dd90f2a3d2eed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "strings it.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "strings it"
-            }
-          },
-          {
-            "id": "d32b09e0189bced4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tab, Tab, Attack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tab, Tab, Attack"
-            }
-          },
-          {
-            "id": "166945843dea40cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wave a flag.md",
+                "file": "General Skills - Parte 2/Wave a flag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Wave a flag"
             }
-          },
-          {
-            "id": "4ccfbfe970aec349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Based.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Based"
-            }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Descripción",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -310,25 +169,40 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4ccfbfe970aec349",
+  "active": "5c57eed2eb9e32f2",
   "lastOpenFiles": [
+    "General Skills - Parte 2/useless.md",
+    "General Skills - Parte 2/Tab, Tab, Attack.md",
+    "General Skills - Parte 2/strings it.md",
+    "General Skills - Parte 2/Static ain't always noise.md",
+    "General Skills - Parte 2/repetitions.md",
+    "General Skills - Parte 2/Magikarp Ground Mission.md",
+    "General Skills - Parte 2/First Find.md",
+    "General Skills - Parte 2/Big Zip.md",
+    "General Skills - Parte 2/Based.md",
+    "General Skills - Parte 1/what's a net cat.md",
+    "General Skills - Parte 1/Warmed Up.md",
+    "General Skills - Parte 1/plumbing.md",
+    "General Skills - Parte 1/Obedient Cat.md",
+    "General Skills - Parte 1/Nice netcat....md",
+    "General Skills - Parte 1/Lets Warm Up.md",
+    "General Skills - Parte 1/Glitch Cat.md",
+    "General Skills - Parte 1/First Grep.md",
+    "General Skills - Parte 1/Bases.md",
+    "General Skills - Parte 1/2Warm.md",
+    "Crypto - Parte 1/waves over lambda.md",
+    "Crypto - Parte 1/The Numbers.md",
+    "Crypto - Parte 1/Tapping.md",
+    "Crypto - Parte 1/la cifra de.md",
+    "Crypto - Parte 1/interencdec.md",
+    "Crypto - Parte 1/caesar.md",
+    "Crypto - Parte 1/Easy1.md",
+    "Crypto - Parte 1",
+    "General Skills - Parte 1",
     "Sin título.base",
-    "useless.md",
-    "Tab, Tab, Attack.md",
-    "Wave a flag.md",
-    "plantilla.md",
-    "strings it.md",
-    "Static ain't always noise.md",
-    "repetitions.md",
-    "Magikarp Ground Mission.md",
-    "First Find.md",
-    "cree un enlace.md",
-    "Big Zip.md",
-    "Based.md",
+    "General Skills - Parte 2",
+    "Parte web 2",
     "Sin nombre",
-    "Bienvenido.md",
-    "README.md",
-    "picoCTF/Sin título.md",
     "picoCTF"
   ]
 }
