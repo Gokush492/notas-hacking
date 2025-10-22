@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto - Parte 2/rsa-pop-quiz.md",
+                "file": "Forensic Parte 4/Disk, disk, sleuth!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rsa-pop-quiz"
+              "title": "Disk, disk, sleuth!"
             }
           }
         ]
@@ -171,8 +171,25 @@
   },
   "active": "5c57eed2eb9e32f2",
   "lastOpenFiles": [
-    "General Skills - Parte 1/First Grep.md",
+    "Forensic Parte 4/Milkslap.md",
+    "Forensic Parte 4/Operation Oni.md",
+    "Forensic Parte 4/Operation Orchid.md",
+    "Forensic Parte 4/Sleuthkit Apprentice.md",
+    "Forensic Parte 4/Sleuthkit Intro.md",
+    "Forensic Parte 4/Disk, disk, sleuth!.md",
     "Crypto - Parte 2/rsa-pop-quiz.md",
+    "Tarea 3 - Forensic/Secret of the Polyglot.md",
+    "Forensic Parte 4",
+    "Tarea 3 - Forensic/Scan Surprise.md",
+    "Tarea 3 - Forensic/CanYouSee.md",
+    "Tarea 3 - Forensic/information.md",
+    "Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
+    "Tarea 3 - Forensic/RED.md",
+    "General Skills - Parte 2/Based.md",
+    "Parte web 2/Cookies.md",
+    "Tarea 3 - Forensic",
+    "Sin título.md",
+    "General Skills - Parte 1/First Grep.md",
     "General Skills - Parte 2/Wave a flag.md",
     "Crypto - Parte 2",
     "General Skills - Parte 2/useless.md",
@@ -183,21 +200,6 @@
     "General Skills - Parte 2/Magikarp Ground Mission.md",
     "General Skills - Parte 2/First Find.md",
     "General Skills - Parte 2/Big Zip.md",
-    "General Skills - Parte 2/Based.md",
-    "General Skills - Parte 1/what's a net cat.md",
-    "General Skills - Parte 1/Warmed Up.md",
-    "General Skills - Parte 1/plumbing.md",
-    "General Skills - Parte 1/Obedient Cat.md",
-    "General Skills - Parte 1/Nice netcat....md",
-    "General Skills - Parte 1/Lets Warm Up.md",
-    "General Skills - Parte 1/Glitch Cat.md",
-    "General Skills - Parte 1/Bases.md",
-    "General Skills - Parte 1/2Warm.md",
-    "Crypto - Parte 1/waves over lambda.md",
-    "Crypto - Parte 1/The Numbers.md",
-    "Crypto - Parte 1/Tapping.md",
-    "Crypto - Parte 1/la cifra de.md",
-    "Crypto - Parte 1/interencdec.md",
     "Crypto - Parte 1",
     "General Skills - Parte 1",
     "Sin título.base",
