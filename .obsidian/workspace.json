@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic Parte 3/MacroHard WeakEdge.md",
+                "file": "Forensic Parte 2/c0rrupt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MacroHard WeakEdge"
+              "title": "c0rrupt"
             }
           }
         ]
@@ -171,11 +171,17 @@
   },
   "active": "e970e2fa4639dd6f",
   "lastOpenFiles": [
+    "Forensic Parte 2/like1000.md",
+    "Forensic Parte 2/m00nwalk.md",
+    "Forensic Parte 2/shark on wire 2.md",
+    "Forensic Parte 2/WhitePages.md",
+    "Forensic Parte 2/c0rrupt.md",
+    "Forensic Parte 3/MacroHard WeakEdge.md",
+    "Forensic Parte 2",
     "Forensic Parte 3/Matryoshka doll.md",
     "Forensic Parte 3/tunn3l v1s10n.md",
     "Forensic Parte 3/WebNet0.md",
     "Forensic Parte 3/WebNet1.md",
-    "Forensic Parte 3/MacroHard WeakEdge.md",
     "Forensic Parte 4/Disk, disk, sleuth!.md",
     "Forensic Parte 3",
     "Forensic Parte 4/Milkslap.md",
@@ -195,17 +201,11 @@
     "Parte web 2/Cookies.md",
     "Tarea 3 - Forensic",
     "Sin título.md",
-    "General Skills - Parte 1/First Grep.md",
-    "General Skills - Parte 2/Wave a flag.md",
     "Crypto - Parte 2",
-    "General Skills - Parte 2/useless.md",
-    "General Skills - Parte 2/Tab, Tab, Attack.md",
-    "General Skills - Parte 2/strings it.md",
     "Crypto - Parte 1",
     "General Skills - Parte 1",
     "Sin título.base",
     "General Skills - Parte 2",
-    "Parte web 2",
-    "picoCTF"
+    "Parte web 2"
   ]
 }
