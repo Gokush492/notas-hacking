@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic Parte 2/c0rrupt.md",
+                "file": "Tarea 2 - Retos Web/SQLiLite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c0rrupt"
+              "title": "SQLiLite"
             }
           }
         ]
@@ -171,11 +171,22 @@
   },
   "active": "e970e2fa4639dd6f",
   "lastOpenFiles": [
+    "Tarea 2 - Retos Web/Secrets.md",
+    "Tarea 2 - Retos Web/SQLiLite.md",
+    "Tarea 2 - Retos Web/Roboto Sans.md",
+    "Tarea 2 - Retos Web/Power Cookie.md",
+    "Tarea 2 - Retos Web/WebDecode.md",
+    "Tarea 2 - Retos Web/Unminify.md",
+    "Tarea 2 - Retos Web/Local Authority.md",
+    "Tarea 2 - Retos Web/IntroToBurp.md",
+    "Tarea 2 - Retos Web/Inspect HTML.md",
+    "Tarea 2 - Retos Web/Includes.md",
+    "Forensic Parte 2/c0rrupt.md",
+    "Tarea 2 - Retos Web",
     "Forensic Parte 2/like1000.md",
     "Forensic Parte 2/m00nwalk.md",
     "Forensic Parte 2/shark on wire 2.md",
     "Forensic Parte 2/WhitePages.md",
-    "Forensic Parte 2/c0rrupt.md",
     "Forensic Parte 3/MacroHard WeakEdge.md",
     "Forensic Parte 2",
     "Forensic Parte 3/Matryoshka doll.md",
@@ -189,23 +200,12 @@
     "Forensic Parte 4/Operation Orchid.md",
     "Forensic Parte 4/Sleuthkit Apprentice.md",
     "Forensic Parte 4/Sleuthkit Intro.md",
-    "Crypto - Parte 2/rsa-pop-quiz.md",
-    "Tarea 3 - Forensic/Secret of the Polyglot.md",
     "Forensic Parte 4",
-    "Tarea 3 - Forensic/Scan Surprise.md",
-    "Tarea 3 - Forensic/CanYouSee.md",
-    "Tarea 3 - Forensic/information.md",
-    "Tarea 3 - Forensic/Ph4nt0m 1ntrud3r.md",
-    "Tarea 3 - Forensic/RED.md",
-    "General Skills - Parte 2/Based.md",
-    "Parte web 2/Cookies.md",
     "Tarea 3 - Forensic",
-    "Sin título.md",
     "Crypto - Parte 2",
     "Crypto - Parte 1",
     "General Skills - Parte 1",
     "Sin título.base",
-    "General Skills - Parte 2",
-    "Parte web 2"
+    "General Skills - Parte 2"
   ]
 }
