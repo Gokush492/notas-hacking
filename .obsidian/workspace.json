@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic Parte 1/So Meta.md",
+                "file": "Web Parte 4/Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "So Meta"
+              "title": "Trickster"
             }
           }
         ]
@@ -171,8 +171,13 @@
   },
   "active": "e970e2fa4639dd6f",
   "lastOpenFiles": [
-    "Forensic Parte 1/Sin título.md",
+    "Web Parte 4/soap.md",
+    "Web Parte 4/Trickster.md",
+    "Web Parte 4/Most Cookies.md",
+    "Web Parte 4/MatchTheRegex.md",
     "Forensic Parte 1/So Meta.md",
+    "Web Parte 4",
+    "Forensic Parte 1/Sin título.md",
     "Forensic Parte 1/shark on wire 1.md",
     "Forensic Parte 1/What Lies Within.md",
     "Forensic Parte 1/extensions.md",
@@ -196,16 +201,11 @@
     "Forensic Parte 2/WhitePages.md",
     "Forensic Parte 3/MacroHard WeakEdge.md",
     "Forensic Parte 2",
-    "Forensic Parte 3/Matryoshka doll.md",
-    "Forensic Parte 3/tunn3l v1s10n.md",
-    "Forensic Parte 3/WebNet0.md",
-    "Forensic Parte 3/WebNet1.md",
     "Forensic Parte 3",
     "Forensic Parte 4",
     "Tarea 3 - Forensic",
     "Crypto - Parte 2",
     "Crypto - Parte 1",
-    "General Skills - Parte 1",
-    "Sin título.base"
+    "General Skills - Parte 1"
   ]
 }
