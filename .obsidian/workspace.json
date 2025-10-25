@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Parte 4/Trickster.md",
+                "file": "Web Parte 3/More SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trickster"
+              "title": "More SQLi"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "e970e2fa4639dd6f",
   "lastOpenFiles": [
-    "Web Parte 4/soap.md",
+    "Web Parte 3/JaWT Scratchpad.md",
+    "Web Parte 3/More SQLi.md",
+    "Web Parte 3/Irish-Name-Repo 1.md",
     "Web Parte 4/Trickster.md",
+    "Web Parte 3",
+    "Web Parte 4/soap.md",
     "Web Parte 4/Most Cookies.md",
     "Web Parte 4/MatchTheRegex.md",
     "Forensic Parte 1/So Meta.md",
@@ -197,15 +201,11 @@
     "Tarea 2 - Retos Web",
     "Forensic Parte 2/like1000.md",
     "Forensic Parte 2/m00nwalk.md",
-    "Forensic Parte 2/shark on wire 2.md",
-    "Forensic Parte 2/WhitePages.md",
-    "Forensic Parte 3/MacroHard WeakEdge.md",
     "Forensic Parte 2",
     "Forensic Parte 3",
     "Forensic Parte 4",
     "Tarea 3 - Forensic",
     "Crypto - Parte 2",
-    "Crypto - Parte 1",
-    "General Skills - Parte 1"
+    "Crypto - Parte 1"
   ]
 }
