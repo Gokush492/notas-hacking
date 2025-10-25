@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Parte 3/More SQLi.md",
+                "file": "Web Parte 2/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "More SQLi"
+              "title": "Scavenger Hunt"
             }
           }
         ]
@@ -171,8 +171,13 @@
   },
   "active": "e970e2fa4639dd6f",
   "lastOpenFiles": [
-    "Web Parte 3/JaWT Scratchpad.md",
+    "Web Parte 2/GET aHEAD.md",
+    "Web Parte 2/Cookies.md",
+    "Web Parte 2/Scavenger Hunt.md",
     "Web Parte 3/More SQLi.md",
+    "Web Parte 2",
+    "Web Parte 2.md",
+    "Web Parte 3/JaWT Scratchpad.md",
     "Web Parte 3/Irish-Name-Repo 1.md",
     "Web Parte 4/Trickster.md",
     "Web Parte 3",
@@ -196,16 +201,11 @@
     "Tarea 2 - Retos Web/Local Authority.md",
     "Tarea 2 - Retos Web/IntroToBurp.md",
     "Tarea 2 - Retos Web/Inspect HTML.md",
-    "Tarea 2 - Retos Web/Includes.md",
-    "Forensic Parte 2/c0rrupt.md",
     "Tarea 2 - Retos Web",
-    "Forensic Parte 2/like1000.md",
-    "Forensic Parte 2/m00nwalk.md",
     "Forensic Parte 2",
     "Forensic Parte 3",
     "Forensic Parte 4",
     "Tarea 3 - Forensic",
-    "Crypto - Parte 2",
-    "Crypto - Parte 1"
+    "Crypto - Parte 2"
   ]
 }
